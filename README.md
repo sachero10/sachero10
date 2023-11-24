@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Alan Serén Almada</h1>
-<h3 align="center">Fullstack Web Developer</h3>
+<h3 align="center">Fullstack Web Developer [JavaScript | React | Node JS] </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachero10&label=Profile%20views&color=0e75b6&style=flat" alt="sachero10" /> </p>
 
