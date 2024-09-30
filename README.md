@@ -13,6 +13,8 @@
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <ul>
   <li>JavaScript</li>
+  <li>Typescript</li>
+  <li>Next.js</li>
   <li>React.js</li>
   <li>Node.js</li>
   <li>Redux.js</li>
